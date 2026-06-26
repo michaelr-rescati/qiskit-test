@@ -1,0 +1,6 @@
+qiskit>=1.2,<2.0
+qiskit-aer>=0.15
+qiskit-ibm-runtime>=0.30
+matplotlib>=3.8
+python-dotenv>=1.0
+pytest>=8.0
